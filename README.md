@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-yadav/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00D4FF" /></a>
   <a href="mailto:ayushrao9407@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF4D8D" /></a>
-  <a href="https://leetcode.com/u/YOUR-LEETCODE/"><img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://leetcode.com/u/ayush_ydv02/"><img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
   <img src="https://komarev.com/ghpvc/?username=ayushyadav02&style=for-the-badge&color=7b2ff7&label=VISITORS" />
 </p>
 
@@ -93,16 +93,7 @@ Draw a math problem or diagram by hand, and **Gemini Vision solves it** on the c
 ### `> github_stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushyadav02&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&ring_color=ff4d8d&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav02&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=6" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ayushyadav02&hide_border=true&background=0d1117&ring=7b2ff7&fire=ff4d8d&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" />
 </p>
 
 ---
