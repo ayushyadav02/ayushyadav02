@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-yadav/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00D4FF" /></a>
   <a href="mailto:ayushrao9407@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF4D8D" /></a>
-  <a href="https://leetcode.com/u/ayush_ydv02/"><img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://leetcode.com/u/YOUR-LEETCODE/"><img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
   <img src="https://komarev.com/ghpvc/?username=ayushyadav02&style=for-the-badge&color=7b2ff7&label=VISITORS" />
 </p>
 
